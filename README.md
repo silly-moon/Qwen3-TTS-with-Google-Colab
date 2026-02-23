@@ -10,8 +10,6 @@ Welcome to my collection of Google Colab notebooks for various AI tools. This re
 
 | Notebook Name | Description | Link | Video Tutorial |
 | :--- | :--- | :--- | :--- |
-| **MOSS-TTS 1.7B** | Zero-Shot Voice Cloning & TTS. Optimized for Colab Free Tier. | [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="28" alt="Open In Colab"/>](https://colab.research.google.com/github/TeamAIQ/Colab-notebooks/blob/main/notebooks/MOSS_TTS_Voice_Cloning_by_AIQUEST.ipynb) | [![Video Tutorial](https://img.shields.io/badge/Video-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/CI3H2oSy3Do) |
-| **HeartMuLa 3B Music Generator** | Free & Open Source AI Music Generation. BF16 Optimized for Colab Free Tier. | [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="28" alt="Open In Colab"/>](https://colab.research.google.com/github/TeamAIQ/Colab-notebooks/blob/main/notebooks/HeartMuLa_by_AIQUEST.ipynb) | [![Video Tutorial](https://img.shields.io/badge/Video-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/abowRj7Af-A) |
 | **Qwen3-TTS 1.7B** | Advanced Text-to-Speech AI. Features Voice Cloning, Custom Voice & Voice Design. | [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="28" alt="Open In Colab"/>](https://colab.research.google.com/github/TeamAIQ/Colab-notebooks/blob/main/notebooks/Qwen_3_TTS_1_7B_by_AIQUEST.ipynb) | [![Video Tutorial](https://img.shields.io/badge/Video-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/AzbgP4cx53o) |
 
 ## How to use
