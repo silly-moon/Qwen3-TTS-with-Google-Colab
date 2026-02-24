@@ -29,7 +29,7 @@ This notebook allows you to run Qwen3-TTS directly in your browser with GPU supp
 ## 📓 Open in Google Colab
 
 <p align="center">
-  <a href="[https://colab.research.google.com/github/TeamAIQ/Colab-notebooks/blob/main/notebooks/Qwen_3_TTS_1_7B_by_AIQUEST.ipynb](https://colab.research.google.com/github/silly-moon/Qwen3-TTS-with-Google-Colab/blob/main/notebooks/Qwen_3_TTS_1_7B.ipynb)">
+  <a href="https://colab.research.google.com/github/silly-moon/Qwen3-TTS-with-Google-Colab/blob/main/notebooks/Qwen_3_TTS_1_7B.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" height="40"/>
   </a>
 </p>
