@@ -1,24 +1,53 @@
-# AI Tools Colab Notebooks
+# Qwen3-TTS Google Colab Notebook
 
-Welcome to my collection of Google Colab notebooks for various AI tools. This repository hosts free, easy-to-use notebooks that you can run directly in your browser.
+Welcome to the dedicated Google Colab notebook for **Qwen3-TTS 1.7B** — a powerful Text-to-Speech model developed by Alibaba Cloud.
 
-[![YouTube](https://img.shields.io/badge/YouTube-AIQUEST-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AIQuestAcademy)
-[![X](https://img.shields.io/badge/%20-AIQUEST-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AIQuestAcademy)
-[![Support My Work](https://img.shields.io/badge/Support_My_Work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aiquest.site)
+This notebook allows you to run Qwen3-TTS directly in your browser with GPU support — no complex setup required.
 
-## Notebooks
+<br>
 
-| Notebook Name | Description | Link | Video Tutorial |
-| :--- | :--- | :--- | :--- |
-| **Qwen3-TTS 1.7B** | Advanced Text-to-Speech AI. Features Voice Cloning, Custom Voice & Voice Design. | [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="28" alt="Open In Colab"/>](https://colab.research.google.com/github/TeamAIQ/Colab-notebooks/blob/main/notebooks/Qwen_3_TTS_1_7B_by_AIQUEST.ipynb) | [![Video Tutorial](https://img.shields.io/badge/Video-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/AzbgP4cx53o) |
+<p align="center">
+  <a href="https://buymeacoffee.com/lynettethecat">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+</p>
 
-## How to use
+---
 
-1. Click the "Open in Colab" badge next to the notebook you want to use.
-2. This will open the notebook in Google Colab.
-3. Make sure to connect to a runtime (GPU is usually recommended for AI tasks) by going to **Runtime -> Change runtime type**.
-4. Run the cells in order.
+## 🚀 Qwen3-TTS 1.7B
 
-## Contributing
+**Qwen3-TTS 1.7B** is an advanced Text-to-Speech AI model with:
 
-Feel free to open issues or submit pull requests if you have suggestions or improvements for the notebooks.
+- ✅ High-quality natural voice generation  
+- ✅ Voice Cloning  
+- ✅ Custom Voice Creation  
+- ✅ Voice Design & Style Control  
+- ✅ Multilingual capabilities  
+
+---
+
+## 📓 Open in Google Colab
+
+<p align="center">
+  <a href="https://colab.research.google.com/github/TeamAIQ/Colab-notebooks/blob/main/notebooks/Qwen_3_TTS_1_7B_by_AIQUEST.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🛠 How to Use
+
+1. Click **Open in Colab**.
+2. Connect to a runtime  
+   - Go to **Runtime → Change runtime type**
+   - Select **GPU** (recommended)
+3. Run the notebook cells in order.
+4. Enter your text or upload a voice sample (for cloning).
+5. Generate high-quality speech output.
+
+---
+
+## 🤝 Contributing
+
+If you have suggestions, improvements, or encounter issues with the Qwen3-TTS notebook, feel free to open an issue or submit a pull request.
